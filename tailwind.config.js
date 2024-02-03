@@ -19,6 +19,7 @@ module.exports = {
       ...colors,
       primary: colors.green,
       secondary: colors.yellow,
+      slate: require("tailwindcss/colors").slate,
     },
   },
   plugins: [],
